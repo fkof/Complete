@@ -1,0 +1,9 @@
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\bin\Debug\CompleteOP.exe
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\bin\Debug\CompleteOP.pdb
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\bin\Debug\CompleteOP.xml
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.Form1.resources
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.Resources.resources
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.vbproj.GenerateResource.Cache
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.exe
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.xml
+C:\Users\ahernandez\Documents\GitHub\Complete\CompleteOP\CompleteOP\obj\x86\Debug\CompleteOP.pdb
